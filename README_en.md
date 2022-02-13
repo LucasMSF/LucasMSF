@@ -12,7 +12,7 @@
 
 <br>
 
-🔡 Você pode ler sobre mim em <b>português</b> [aqui](#).
+🔡 Você pode ler sobre mim em <b>português</b> [aqui](README.md).
 
 
 I'm a programmer passionate about the best Back-end and Front-end development technologies. Fascinated the entire technology ecosystem and especially Web Development 
