@@ -10,6 +10,8 @@
 </a>
 </div>
 
+<br>
+
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](#).
 
 
