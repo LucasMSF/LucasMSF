@@ -15,7 +15,7 @@
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](#).
 
 
-I'm a programmer passionate about the best Back-end and Front-end development technologies. Fascinated the entire technology ecosystem and especially Web Development and
+I'm a programmer passionate about the best Back-end and Front-end development technologies. Fascinated the entire technology ecosystem and especially Web Development 
 
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-Web%20Developer-brightgreen)
