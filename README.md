@@ -18,7 +18,7 @@
 Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento Back-end e Front-end. Fascinado por todo o ecossistema de tecnologia e principalmente Desenvolvimento Web
 
 ![age](https://img.shields.io/badge/Idade-19-blue)
-![focus](https://img.shields.io/badge/Foco-Web%20Developer-brightgreen)
+![focus](https://img.shields.io/badge/Foco-Desenvolvimento%20Web-brightgreen)
 ![living](https://img.shields.io/badge/País-Brasil-3c9)
 
 <div>
