@@ -56,9 +56,9 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento Back
 <a href="#">
       <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </a>
-<!-- <a href="#">
+<a href="#">
       <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</a> -->
+</a>
 
 #### :wrench: Ferramentas e ambientes
 
