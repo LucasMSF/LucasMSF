@@ -23,6 +23,7 @@ I'm a programmer passionate about the best Back-end and Front-end development te
 
 <div>
 <img width="400" height="200" src="https://camo.githubusercontent.com/a5fe1158486840a7ae5b98f35901952eba9f5ba4a10d80dac94dfa5b3d3fad30/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6c756361736d73662673686f775f69636f6e733d74727565267468656d653d6461726b266c6f63616c653d656e266c61796f75743d636f6d70616374">
+<hr>
 <img width="400" height="200" src="https://camo.githubusercontent.com/17e7f288ca540f2db1b883ad42c894e17157c0fa83afbbe0927c844894a98e85/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c756361736d73662673686f775f69636f6e733d74727565267468656d653d6461726b266c6f63616c653d656e">
 </div>
 
@@ -55,9 +56,9 @@ I'm a programmer passionate about the best Back-end and Front-end development te
 <a href="#">
       <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </a>
-<!-- <a href="#">
+<a href="#">
       <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</a> -->
+</a> 
 
 #### :wrench: Tools & Environments
 
