@@ -40,7 +40,8 @@ I am a software developer with experience working as a fullstack developer, but 
       <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&lo
+      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
 
 #### :hammer: Frameworks
 
